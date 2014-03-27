@@ -1,0 +1,3 @@
+[submodule "golzo"]
+	path = golzo
+	url = https://github.com/hwhw/golzo
